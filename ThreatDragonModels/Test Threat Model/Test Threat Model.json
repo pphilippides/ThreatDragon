@@ -5,8 +5,18 @@
     "description": "Test threat model - Google CodeFun"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "Philip"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Diagram 1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Philip"
   }
 }
